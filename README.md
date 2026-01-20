@@ -46,10 +46,9 @@ Passionate about clean code, DevOps practices, and turning business rules into e
 ### 📫 Let's Connect
 <p align="center">
   <a href="mailto:brianhufnus@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
-  <a href="https://x.com/BrianHufnus"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="x" /></a>
   <a href="https://github.com/bhufnus"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhufnus&label=Profile+views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://gpvc.arturio.dev/bhufnus" alt="profile views" />
 </p>
