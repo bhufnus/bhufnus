@@ -50,5 +50,5 @@ Passionate about clean code, DevOps practices, and turning business rules into e
 </p>
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/bhufnus" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=bhufnus&style=flat-square&color=0366d6&label=Profile+Views" alt="profile views" />
 </p>
