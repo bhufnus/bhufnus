@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Brian Hufnus</h1>
+<h1 align="center">Hi, I'm Brian Hufnus</h1>
 
 <p align="center">
   <a href="mailto:brianhufnus@gmail.com">brianhufnus@gmail.com</a> • Milwaukee, WI • 
