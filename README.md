@@ -13,7 +13,7 @@
 
 ### About Me
 
-Associate Software Engineer at Northwestern Mutual. Focused on backend development, cloud infrastructure, automation, and reliable systems. Background in full-stack JavaScript projects and problem-solving via LeetCode-style challenges.
+Professional Software Engineer focused on backend development, cloud infrastructure, automation, and reliable systems. Background in full-stack JavaScript projects and problem-solving via LeetCode-style challenges.
 
 Passionate about clean code, DevOps practices, and turning business rules into efficient microservices.
 
