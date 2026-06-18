@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="mailto:brianhufnus@gmail.com">brianhufnus@gmail.com</a> • Milwaukee, WI • 
-  <a href="https://github.com/bhufnus">github.com/bhufnus</a>
+  <a href="https://brian-hufnus-portfolio.onrender.com/">my portfolio</a>
 </p>
 
 <p align="center">
