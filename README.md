@@ -13,9 +13,9 @@
 
 ### About Me
 
-Professional Software Engineer focused on backend development, cloud infrastructure, automation, and reliable systems. Background in full-stack JavaScript projects and problem-solving via LeetCode-style challenges.
+Experienced fullstack engineer with a strong focus on React/NextJs (and all of it's buddies), AWS cloud infrastructure, GitHub & GitLab CICD pipelines implemented with Kubernetes, JS & Java Spring Boot APIs querying SQL or nonSQL databases, and designing reliable automation jobs with common OOP patterns - just to name a few. I also have a strong interest in Machine Learning and Cybersecurity, which I often dive into in my free time.
 
-Passionate about clean code, DevOps practices, and turning business rules into efficient microservices.
+Passionate about clean code, DevOps practices, and using the latest AI tools to optimize efficiency.
 
 ### 🛠️ Tech Stack
 
